@@ -1,0 +1,10 @@
+Browser auto refreshes  
+Replace again with: 
+function App() { 
+ 
+ 
+  return ( 
+    <div> 
+    </div> 
+  ); 
+} 
